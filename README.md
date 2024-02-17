@@ -20,5 +20,4 @@ Libraries used
 ![Password](https://github.com/Shiv6116/Strong-Password-Generater/assets/128344968/d1012eda-6916-4516-b4bb-26701f320a05)
 
 
-< /Happy Coding ! >
 
